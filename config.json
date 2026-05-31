@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smseerify",
+        "uuid": 6900276,
+        "checksum": "6uj5i5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
